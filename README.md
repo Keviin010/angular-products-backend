@@ -2,7 +2,7 @@
 
 REST API con Spring Boot y MySQL para gestion de productos.
 
-> Frontend disponible en [angular-products-app](https://github.com/Keviin010/angular-products-app)
+> Frontend disponible en [angular-products-app](https://github.com/Keviin010/angular-products-app).
 
 ## Tecnologias
 
