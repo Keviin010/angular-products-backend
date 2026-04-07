@@ -43,4 +43,4 @@ spring.datasource.password=tu_password
 ./mvnw spring-boot:run
 ```
 ## Autor
-Kevin Royo
+Kevin Royo.
